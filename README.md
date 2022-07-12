@@ -16,3 +16,11 @@ For more information about Markdown syntax, see the [Markdown Guide](https://www
 
 
 more updates
+
+
+## RPS Stuff Below
+
+
+```
+python game.py
+```
