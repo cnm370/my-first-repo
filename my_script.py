@@ -8,3 +8,7 @@ print("HELLO WORLD!")
 x = 2 + 5
 print(x)
 
+
+
+y= 10
+print(y)
