@@ -24,3 +24,17 @@ more updates
 ```
 python game.py
 ```
+
+
+here's a shell command / terminal command:
+
+```sh
+python game.py
+```
+
+this is a example of python code exmaple:
+
+```py
+
+print("HELLO")
+```
